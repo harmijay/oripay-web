@@ -20,7 +20,7 @@ const RESOURCES = {
 "assets/assets/image/oripay-bg.png": "2912a35db37e4b332af8828706c32527",
 "assets/FontManifest.json": "a30e5b3598ad8a947d466528192582a1",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
-"assets/NOTICES": "5de84c94a01494f128c4df609d5dfbcb",
+"assets/NOTICES": "c7fe559107fe0507755776a3f38af0fa",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/fluttertoast/assets/toastify.css": "a85675050054f179444bc5ad70ffc635",
 "assets/packages/fluttertoast/assets/toastify.js": "e7006a0a033d834ef9414d48db3be6fc",
@@ -35,11 +35,11 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "55aa492a4b3062586cb9f646cf09ac86",
-"/": "55aa492a4b3062586cb9f646cf09ac86",
-"main.dart.js": "28beadd9984d0ab96b4c6e2e7de3e6ff",
+"index.html": "6a515ec0f1918314eba7cb002648520f",
+"/": "6a515ec0f1918314eba7cb002648520f",
+"main.dart.js": "d1120f47d0627d5da66962e906c04de8",
 "manifest.json": "6987a6b7dce7d0113d57d2b4883d8c81",
-"version.json": "7a3a8606956b546fd7ab5528348e4e37"
+"version.json": "352b888fe71698ea4576cf085eec6775"
 };
 
 // The application shell files that are downloaded before a service worker can
